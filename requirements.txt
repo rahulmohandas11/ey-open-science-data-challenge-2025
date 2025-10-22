@@ -1,0 +1,16 @@
+ipykernel
+rioxarray
+stackstac
+pystac_client
+planetary_computer
+odc-stac
+matplotlib
+seaborn
+geopandas
+rasterio
+pyproj
+scikit-learn
+xgboost
+catboost
+lightgbm
+tqdm
